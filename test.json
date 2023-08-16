@@ -1,0 +1,7 @@
+{
+    "title": "RamBase API",
+    "description": "RamBase API resources which provided API client has permission to",
+    "contact": { "email": "support@rambase.net" },
+    "license": { "name": "RamBase Licence" },
+    "version": "1.0.0"
+  }
